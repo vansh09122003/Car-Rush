@@ -1,0 +1,38 @@
+{
+    "LeftRightControll": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results/Model29/LeftRightControll/LeftRightControll-499999.onnx",
+                "reward": 0.7587231463640443,
+                "creation_time": 1664005194.610703,
+                "auxillary_file_paths": [
+                    "results/Model29/LeftRightControll/LeftRightControll-499999.pt"
+                ]
+            },
+            {
+                "steps": 500004,
+                "file_path": "results/Model29/LeftRightControll/LeftRightControll-500004.onnx",
+                "reward": 0.7595259930406298,
+                "creation_time": 1664005194.6507142,
+                "auxillary_file_paths": [
+                    "results/Model29/LeftRightControll/LeftRightControll-500004.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500004,
+            "file_path": "results/Model29/LeftRightControll.onnx",
+            "reward": 0.7595259930406298,
+            "creation_time": 1664005194.6507142,
+            "auxillary_file_paths": [
+                "results/Model29/LeftRightControll/LeftRightControll-500004.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1"
+    }
+}

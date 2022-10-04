@@ -1,0 +1,29 @@
+{
+    "LeftRightControll": {
+        "checkpoints": [
+            {
+                "steps": 3000090,
+                "file_path": "results/Model12/LeftRightControll/LeftRightControll-3000090.onnx",
+                "reward": 8.092200767993926,
+                "creation_time": 1663869608.9675179,
+                "auxillary_file_paths": [
+                    "results/Model12/LeftRightControll/LeftRightControll-3000090.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000090,
+            "file_path": "results/Model12/LeftRightControll.onnx",
+            "reward": 8.092200767993926,
+            "creation_time": 1663869608.9675179,
+            "auxillary_file_paths": [
+                "results/Model12/LeftRightControll/LeftRightControll-3000090.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1"
+    }
+}

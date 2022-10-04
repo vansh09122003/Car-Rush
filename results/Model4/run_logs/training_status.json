@@ -1,0 +1,38 @@
+{
+    "LeftRightControll": {
+        "checkpoints": [
+            {
+                "steps": 49993,
+                "file_path": "results/Model4/LeftRightControll/LeftRightControll-49993.onnx",
+                "reward": null,
+                "creation_time": 1663779449.7910988,
+                "auxillary_file_paths": [
+                    "results/Model4/LeftRightControll/LeftRightControll-49993.pt"
+                ]
+            },
+            {
+                "steps": 50003,
+                "file_path": "results/Model4/LeftRightControll/LeftRightControll-50003.onnx",
+                "reward": 5.9080023765563965,
+                "creation_time": 1663779449.830837,
+                "auxillary_file_paths": [
+                    "results/Model4/LeftRightControll/LeftRightControll-50003.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50003,
+            "file_path": "results/Model4/LeftRightControll.onnx",
+            "reward": 5.9080023765563965,
+            "creation_time": 1663779449.830837,
+            "auxillary_file_paths": [
+                "results/Model4/LeftRightControll/LeftRightControll-50003.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1"
+    }
+}

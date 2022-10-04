@@ -1,0 +1,47 @@
+{
+    "LeftRightControll": {
+        "checkpoints": [
+            {
+                "steps": 10051,
+                "file_path": "results/Model5/LeftRightControll/LeftRightControll-10051.onnx",
+                "reward": 8.33599627075287,
+                "creation_time": 1663781864.509273,
+                "auxillary_file_paths": [
+                    "results/Model5/LeftRightControll/LeftRightControll-10051.pt"
+                ]
+            },
+            {
+                "steps": 49994,
+                "file_path": "results/Model5/LeftRightControll/LeftRightControll-49994.onnx",
+                "reward": 9.470580458641052,
+                "creation_time": 1663783879.693312,
+                "auxillary_file_paths": [
+                    "results/Model5/LeftRightControll/LeftRightControll-49994.pt"
+                ]
+            },
+            {
+                "steps": 50010,
+                "file_path": "results/Model5/LeftRightControll/LeftRightControll-50010.onnx",
+                "reward": 9.555399277630974,
+                "creation_time": 1663783879.729065,
+                "auxillary_file_paths": [
+                    "results/Model5/LeftRightControll/LeftRightControll-50010.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50010,
+            "file_path": "results/Model5/LeftRightControll.onnx",
+            "reward": 9.555399277630974,
+            "creation_time": 1663783879.729065,
+            "auxillary_file_paths": [
+                "results/Model5/LeftRightControll/LeftRightControll-50010.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1"
+    }
+}
